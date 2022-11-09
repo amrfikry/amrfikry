@@ -13,12 +13,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h3 align="center">I have a huge passion for data and seeking a new role as a Data Analyst to gain a lot of experience and work in a collaborative community that helps me do my best and develop myself in programming and in data analytics.</h3>
+<h3 align="center">A graduate software engineer with a passion for collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understanding and proficiency in platforms for effective data analysis, including SQL, Excel, Power BI, Tableau, and Python. Strong communication, organizational, and analytical skills. Recently completed the Google Data Analytics Certificate,    a rigorous, hands-on program that covers the entire scope of the data analysis process.</h3>
 
 
-- 🔭 I’m currently working on [Paw Application](https://github.com/amrfikry/paws-app)
+- 🔭 I’m currently working on [Hoarsecords](https://play.google.com/store/apps/details?id=com.hoarsecords.app)
 
-- 🌱 I’m currently learning **Data Quality Assessment**
+- 🌱 I’m currently learning **Mastering SQL**
 
 - 💬 Ask me about **Data analysis, Flutter, GraphQL**
 
