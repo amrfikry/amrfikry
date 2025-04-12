@@ -16,11 +16,11 @@
 <h3 align="center">A graduate software engineer with a passion for collecting, transforming, and organizing data for analysis to help make informed decisions. Excellent understanding and proficiency in platforms for effective data analysis, including SQL, Excel, Power BI, Tableau, and Python. Strong communication, organizational, and analytical skills. Recently completed the Google Data Analytics Certificate,    a rigorous, hands-on program that covers the entire scope of the data analysis process.</h3>
 
 
-- 🔭 I’m currently working on [Hoarsecords](https://play.google.com/store/apps/details?id=com.hoarsecords.app)
+- 🔭 I’m currently working at [Contentsquare](https://contentsquare.com/)
 
-- 🌱 I’m currently learning **Mastering SQL**
+- 🌱 I’m currently learning **Data Engineering**
 
-- 💬 Ask me about **Data analysis, Flutter, GraphQL**
+- 💬 Ask me about **Data analysis, Data Engineering, SQL**
 
 - 📫 How to reach me **amrfikry99@gmail.com**
 
